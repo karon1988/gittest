@@ -1,0 +1,4 @@
+this file is created in branch b2
+this line is added after fixing hotfix
+
+Stash demo

@@ -1,4 +1,8 @@
 hello git
 added
 modified in branch hotfix
+<<<<<<< HEAD
 hhh in master
+=======
+added in branch b22
+>>>>>>> b2
